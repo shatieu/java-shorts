@@ -1,26 +1,4 @@
-# Úloha č. 3: Kódovanie
-
-**Zverejnenie úlohy:** 2.12.2017 
-
-**Deadline:** 23.12.2017 23:59
-
-Projekt môžte skompilovať pomocou nasledujúceho príkazu:
-
-```bash
-mvn clean install -Dcheckstyle.fail=true
-```
-
-Pokrytie testov nájdete po kompilácii v `target/site/jacoco/index.html`.
-
-## Bodovanie
-
-Maximálny počet bodov je **11**, body sú rozdelené nasledovne:
-
-* **6.5 bodov** za prejdenie testov (priložené testy negarantujú 100% správnosť),
-* **3.5 bodov** za správnu implementáciu (posúdia cvičiaci),
-* **1 bod** za čístú a elegantnú implementáciu.
-
-Ak verejné testy neprejdú, môžte získať maximálne **4 body**.
+##school task
 
 ## Požiadavky
 
