@@ -1,39 +1,4 @@
-﻿# Domáca úloha č. 1 - Magic the Gathering
-
-**Zverejnenie úlohy:** 7. 10. 2017
-
-**Deadline:** 28. 10. 2017 23:59
-
-## Predpoklady
-
-Pre úspešnú implementáciu musíte poznať:
-
-* Vytváranie tried, koštruktor
-* Rozdiel medzi triedou a objektom
-* Prepisovanie metód
-* Statické premenné a metódy
-* Pole
-* Rozhrania (vytváranie a implementacia)
-* Základné princípy dedičnosti
-
-## Štruktúra projektu
-
-1. Balíček ```magicthegathering``` obsahuje main a aplikačnú logiku
-  - **Prosím nemodifikujte žiadnu z týchto tried**
-2. Balíček ```magicthegathering.game``` obsahuje triedy a rozhrania, ktoré sú súčasťou zadania
-  - **Prosím nemodifikujte žiadnu z týchto tried**
-3. Package  ```magicthegathering.impl``` bude obsahovat Vašu implementáciu
-  - **Čokoľvek mimo tohto balíčku bude pri hodnotení ignorované**
-
-## Kompilácia projektu
-
-Projekt môžte mimo vývojového prostredia skompilovať pomocou nasledujúceho príkazu:
-
-```bash
-mvn clean install -Dcheckstyle.fail=true
-```
-
-Pokrytie testov nájdete po kompilácii v `target/site/jacoco/index.html`.
+﻿## Magic the gathering school project
 
 ## Pravidlá hry Magic the Gathering
 
