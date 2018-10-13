@@ -1,24 +1,6 @@
-Úloha č. 2: Vyhledávání v DOM
+Dom parser school task
 ====================================
 
-**Zveřejnění úlohy:** 5. Listopad 2017
-
-**Deadline pro odevzdání:** 25. Listopad 2017
-
-Obecné informace
--------------------
-Cílem tohoto zadání je vytvořit jednoduchou [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) 
-(Document Object Model) strukturu, která se používá pro interní reprezentaci HTML stránek. Druhým cílem 
-je vytvořit dotazovací engine podobný Sizzle enginu, který naleznete například v
-[jQuery](https://en.wikipedia.org/wiki/JQuery).
-
-Maximální počet bodů za tuto úlohu je **9**.
-
-- **6 bodů** za procházející testy (přiložené testy negarantují 100% správnost).
-- **2 body** za procházející rozšířené testy (mají k dispozici pouze cvičící).
-- **1 bod** za čisté a elegantní řešení (konvence, minimální opakování kódu).
-
-V případě, že **neprochází přiložené testy**, nelze získat více jak **5 bodů** (to znamená, že může být uděleno i **0 bodů**)!
 
 ### Požadavky
 Pro řešení úlohy se předpokládají následující znalosti:
