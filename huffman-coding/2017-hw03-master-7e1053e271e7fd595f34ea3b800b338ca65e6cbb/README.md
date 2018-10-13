@@ -1,4 +1,4 @@
-##school task
+## Huffman coding school task
 
 ## Požiadavky
 
